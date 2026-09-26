@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shreyag219/leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/shreyag219/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shreyag219/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shreyag219/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shreyag219/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyag219/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shreyag219/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
