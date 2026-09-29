@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyag219/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shreyag219/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shreyag219/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreyag219/leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/shreyag219/leetcode/tree/master/0189-rotate-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyag219/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shreyag219/leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/shreyag219/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyag219/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shreyag219/leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/shreyag219/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
