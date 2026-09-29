@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyag219/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shreyag219/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shreyag219/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/shreyag219/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shreyag219/leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/shreyag219/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shreyag219/leetcode/tree/master/0217-contains-duplicate) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyag219/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shreyag219/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/shreyag219/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyag219/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyag219/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -52,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyag219/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/shreyag219/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyag219/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shreyag219/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyag219/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyag219/leetcode/tree/master/0242-valid-anagram) |
 ## Manacher
