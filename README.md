@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreyag219/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shreyag219/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shreyag219/leetcode/tree/master/0283-move-zeroes) |
+| [2013-detect-squares](https://github.com/shreyag219/leetcode/tree/master/2013-detect-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shreyag219/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyag219/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyag219/leetcode/tree/master/0242-valid-anagram) |
+| [2013-detect-squares](https://github.com/shreyag219/leetcode/tree/master/2013-detect-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shreyag219/leetcode/tree/master/0043-multiply-strings) |
+## Design
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/shreyag219/leetcode/tree/master/2013-detect-squares) |
+## Counting
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/shreyag219/leetcode/tree/master/2013-detect-squares) |
+## Data Stream
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/shreyag219/leetcode/tree/master/2013-detect-squares) |
 <!---LeetCode Topics End-->
