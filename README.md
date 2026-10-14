@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shreyag219/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/shreyag219/leetcode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyag219/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/shreyag219/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shreyag219/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyag219/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shreyag219/leetcode/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shreyag219/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
